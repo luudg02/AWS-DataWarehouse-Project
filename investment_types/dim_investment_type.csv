@@ -1,0 +1,8 @@
+investment_type_id,investment_type_name
+1,Stocks
+2,Bonds
+3,Mutual Funds
+4,ETFs
+5,Real Estate
+6,Commodities
+7,Cryptocurrency

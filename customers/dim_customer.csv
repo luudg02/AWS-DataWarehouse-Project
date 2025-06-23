@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,address,city,state,postal_code,phone_number
+1,David,Smith,david.smith@email.com,7318 Main St,Phoenix,AZ,91750,823-822-6972
+2,David,Rodriguez,david.rodriguez@email.com,1537 Main St,San Diego,CA,15228,685-682-9674
+3,Sarah,Rodriguez,sarah.rodriguez@email.com,9309 Main St,Los Angeles,CA,39062,358-393-3430
+4,John,Jones,john.jones@email.com,1177 Main St,Dallas,TX,88557,661-198-8216
+5,Emma,Brown,emma.brown@email.com,1718 Main St,Philadelphia,PA,99793,735-872-1547
+6,Robert,Johnson,robert.johnson@email.com,1872 Main St,San Jose,CA,85576,195-544-2679
+7,John,Miller,john.miller@email.com,2765 Main St,San Diego,CA,38389,248-110-5559
+8,David,Smith,david.smith@email.com,3326 Main St,Dallas,TX,66311,456-446-8453
+9,Sarah,Smith,sarah.smith@email.com,3409 Main St,Chicago,IL,54133,642-240-5702
+10,David,Smith,david.smith@email.com,531 Main St,Philadelphia,PA,63065,706-608-4270
+11,John,Martinez,john.martinez@email.com,5182 Main St,Houston,TX,33227,712-255-8990
+12,Jane,Johnson,jane.johnson@email.com,7210 Main St,Los Angeles,CA,32637,259-377-1999
+13,David,Jones,david.jones@email.com,3096 Main St,Los Angeles,CA,59786,881-688-2224
+14,Chris,Davis,chris.davis@email.com,1639 Main St,Phoenix,AZ,87656,148-579-5693
+15,Chris,Johnson,chris.johnson@email.com,9442 Main St,San Jose,CA,44644,753-247-8043
+16,Michael,Williams,michael.williams@email.com,9280 Main St,Chicago,IL,37169,374-484-5166
+17,Maria,Johnson,maria.johnson@email.com,3912 Main St,Houston,TX,69833,322-401-5008
+18,Emma,Jones,emma.jones@email.com,5065 Main St,San Diego,CA,27152,806-435-1198
+19,Maria,Brown,maria.brown@email.com,7551 Main St,New York,NY,80028,635-711-1120
+20,Lisa,Davis,lisa.davis@email.com,2274 Main St,Los Angeles,CA,45562,942-219-7604
+21,Maria,Miller,maria.miller@email.com,4363 Main St,Philadelphia,PA,91331,644-630-8662
+22,Sarah,Johnson,sarah.johnson@email.com,7163 Main St,Los Angeles,CA,93771,769-557-1664
+23,Chris,Miller,chris.miller@email.com,5022 Main St,Philadelphia,PA,41440,465-127-8514
+24,Michael,Miller,michael.miller@email.com,1978 Main St,Phoenix,AZ,62209,267-669-6479
+25,Maria,Davis,maria.davis@email.com,5902 Main St,Dallas,TX,45925,787-414-2946
+26,John,Miller,john.miller@email.com,7280 Main St,Houston,TX,92861,327-677-1125
+27,John,Miller,john.miller@email.com,5967 Main St,Dallas,TX,71722,922-907-2343
+28,Chris,Rodriguez,chris.rodriguez@email.com,6574 Main St,Dallas,TX,95529,347-717-5578
+29,Lisa,Jones,lisa.jones@email.com,8850 Main St,Dallas,TX,70007,279-194-4815
+30,David,Williams,david.williams@email.com,4930 Main St,New York,NY,44568,198-642-4555
+31,Lisa,Jones,lisa.jones@email.com,3156 Main St,San Jose,CA,82852,731-137-3029
+32,David,Jones,david.jones@email.com,7435 Main St,San Diego,CA,86189,236-544-8529
+33,David,Garcia,david.garcia@email.com,3007 Main St,San Jose,CA,37212,678-634-6845
+34,John,Williams,john.williams@email.com,4565 Main St,San Antonio,TX,13189,694-145-1443
+35,Michael,Johnson,michael.johnson@email.com,614 Main St,Los Angeles,CA,89278,718-875-1083
+36,Emma,Davis,emma.davis@email.com,1080 Main St,Chicago,IL,89537,824-539-1870
+37,David,Williams,david.williams@email.com,132 Main St,Philadelphia,PA,66112,750-372-8893
+38,Sarah,Rodriguez,sarah.rodriguez@email.com,1190 Main St,San Diego,CA,29570,863-608-2408
+39,John,Davis,john.davis@email.com,7295 Main St,Chicago,IL,59008,238-686-7161
+40,Emma,Jones,emma.jones@email.com,6453 Main St,San Jose,CA,68887,657-878-2026
+41,David,Williams,david.williams@email.com,9209 Main St,Phoenix,AZ,94002,639-143-3142
+42,Lisa,Miller,lisa.miller@email.com,196 Main St,San Diego,CA,55201,288-224-3728
+43,Chris,Williams,chris.williams@email.com,9218 Main St,New York,NY,56369,506-897-7329
+44,Maria,Williams,maria.williams@email.com,6182 Main St,Dallas,TX,77835,352-536-7419
+45,Maria,Garcia,maria.garcia@email.com,3529 Main St,Dallas,TX,61337,335-243-2091
+46,Emma,Jones,emma.jones@email.com,443 Main St,Houston,TX,38154,915-529-1343
+47,Robert,Davis,robert.davis@email.com,5542 Main St,San Jose,CA,81109,184-460-5170
+48,Chris,Smith,chris.smith@email.com,5125 Main St,Chicago,IL,89810,707-794-5091
+49,Lisa,Rodriguez,lisa.rodriguez@email.com,4591 Main St,Dallas,TX,13248,464-125-5367
+50,David,Jones,david.jones@email.com,5377 Main St,San Jose,CA,90677,362-156-2110
+51,John,Rodriguez,john.rodriguez@email.com,8750 Main St,Chicago,IL,98659,550-701-3121
+52,David,Rodriguez,david.rodriguez@email.com,6267 Main St,Houston,TX,92622,895-160-5041
+53,Maria,Miller,maria.miller@email.com,3251 Main St,San Antonio,TX,42953,731-714-4238
+54,John,Martinez,john.martinez@email.com,5776 Main St,Dallas,TX,72348,810-707-7353
+55,Robert,Williams,robert.williams@email.com,8785 Main St,San Jose,CA,32901,123-579-9153
+56,Chris,Johnson,chris.johnson@email.com,7124 Main St,Philadelphia,PA,30140,267-529-9184
+57,Chris,Brown,chris.brown@email.com,812 Main St,Dallas,TX,41441,517-335-3328
+58,Jane,Garcia,jane.garcia@email.com,8032 Main St,Phoenix,AZ,82090,582-877-8567
+59,Michael,Davis,michael.davis@email.com,3388 Main St,Chicago,IL,42398,286-290-6216
+60,David,Garcia,david.garcia@email.com,9428 Main St,Los Angeles,CA,79170,606-108-2458
+61,Jane,Brown,jane.brown@email.com,9137 Main St,Chicago,IL,44847,363-908-7736
+62,Sarah,Johnson,sarah.johnson@email.com,3173 Main St,Chicago,IL,57398,658-424-1513
+63,Jane,Williams,jane.williams@email.com,1928 Main St,Phoenix,AZ,17715,424-545-9484
+64,John,Johnson,john.johnson@email.com,6668 Main St,San Diego,CA,13912,536-267-8777
+65,Maria,Johnson,maria.johnson@email.com,345 Main St,New York,NY,71834,338-205-2046
+66,David,Smith,david.smith@email.com,6906 Main St,Chicago,IL,69218,624-469-1928
+67,Michael,Miller,michael.miller@email.com,6140 Main St,Philadelphia,PA,82864,964-388-5336
+68,Robert,Williams,robert.williams@email.com,2926 Main St,Phoenix,AZ,24832,120-626-9220
+69,Michael,Martinez,michael.martinez@email.com,2154 Main St,Dallas,TX,38140,915-494-7525
+70,Sarah,Brown,sarah.brown@email.com,3989 Main St,San Jose,CA,32010,178-129-7722
+71,Sarah,Johnson,sarah.johnson@email.com,2782 Main St,Houston,TX,60798,758-162-4109
+72,David,Davis,david.davis@email.com,962 Main St,Philadelphia,PA,92827,440-234-4146
+73,David,Jones,david.jones@email.com,827 Main St,San Diego,CA,44710,261-832-5393
+74,Emma,Jones,emma.jones@email.com,6241 Main St,Houston,TX,39320,911-110-9304
+75,Sarah,Williams,sarah.williams@email.com,2573 Main St,Los Angeles,CA,55190,628-301-3798
+76,John,Jones,john.jones@email.com,7138 Main St,Dallas,TX,20472,176-276-7138
+77,Chris,Martinez,chris.martinez@email.com,1986 Main St,Los Angeles,CA,31465,455-851-3914
+78,Jane,Davis,jane.davis@email.com,2058 Main St,San Jose,CA,63063,259-388-2018
+79,Robert,Smith,robert.smith@email.com,9254 Main St,San Diego,CA,25196,451-770-8111
+80,Sarah,Rodriguez,sarah.rodriguez@email.com,5390 Main St,Houston,TX,29937,725-580-6541
+81,Lisa,Johnson,lisa.johnson@email.com,9451 Main St,Los Angeles,CA,82911,127-682-7843
+82,Sarah,Johnson,sarah.johnson@email.com,7938 Main St,San Diego,CA,45104,807-345-1875
+83,Maria,Williams,maria.williams@email.com,1849 Main St,New York,NY,88135,761-520-9234
+84,Jane,Martinez,jane.martinez@email.com,3079 Main St,Philadelphia,PA,82907,992-364-6756
+85,Emma,Garcia,emma.garcia@email.com,7080 Main St,Chicago,IL,58629,977-168-5182
+86,John,Jones,john.jones@email.com,2210 Main St,Los Angeles,CA,64325,562-803-4291
+87,Lisa,Davis,lisa.davis@email.com,8404 Main St,New York,NY,55156,272-336-9066
+88,Maria,Davis,maria.davis@email.com,6059 Main St,New York,NY,87320,373-771-6433
+89,Michael,Davis,michael.davis@email.com,5112 Main St,San Jose,CA,55426,618-475-4196
+90,Emma,Garcia,emma.garcia@email.com,6814 Main St,Philadelphia,PA,32225,777-672-8624
+91,David,Davis,david.davis@email.com,2330 Main St,Houston,TX,44396,407-887-4149
+92,Michael,Smith,michael.smith@email.com,632 Main St,Dallas,TX,71895,440-508-5950
+93,David,Smith,david.smith@email.com,1356 Main St,Houston,TX,19982,400-291-4282
+94,Chris,Martinez,chris.martinez@email.com,5176 Main St,Chicago,IL,82475,948-344-7734
+95,Chris,Smith,chris.smith@email.com,4281 Main St,Philadelphia,PA,31588,778-889-8215
+96,Sarah,Rodriguez,sarah.rodriguez@email.com,611 Main St,Dallas,TX,46914,689-587-2500
+97,Robert,Martinez,robert.martinez@email.com,4071 Main St,Houston,TX,51758,556-367-6408
+98,David,Miller,david.miller@email.com,2219 Main St,San Antonio,TX,34764,906-952-7162
+99,Maria,Brown,maria.brown@email.com,433 Main St,San Jose,CA,98514,435-179-1238
+100,Jane,Brown,jane.brown@email.com,5044 Main St,Houston,TX,48750,681-302-6080

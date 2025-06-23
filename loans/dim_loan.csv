@@ -1,0 +1,51 @@
+loan_id,loan_name,loan_type,loan_amount,interest_rate
+1,Personal Loan 1,Student,188598.99,5.75
+2,Home Equity Loan 2,Home Equity,475367.07,6.60
+3,Auto Loan 3,Student,266025.10,11.93
+4,Business Loan 4,Personal,376810.27,10.60
+5,Auto Loan 5,Business,204748.45,5.75
+6,Mortgage Loan 6,Personal,105227.80,11.91
+7,Business Loan 7,Personal,397168.08,11.06
+8,Home Equity Loan 8,Business,445610.99,10.20
+9,Personal Loan 9,Home Equity,243491.10,4.42
+10,Mortgage Loan 10,Home Equity,405093.03,8.28
+11,Home Equity Loan 11,Business,465822.15,9.25
+12,Auto Loan 12,Personal,339897.70,5.07
+13,Personal Loan 13,Mortgage,109430.29,5.12
+14,Home Equity Loan 14,Personal,143005.95,4.12
+15,Mortgage Loan 15,Mortgage,315757.79,8.16
+16,Student Loan 16,Mortgage,147438.77,5.74
+17,Auto Loan 17,Business,475994.98,2.78
+18,Mortgage Loan 18,Auto,77185.71,10.70
+19,Mortgage Loan 19,Student,384570.09,2.92
+20,Home Equity Loan 20,Home Equity,313606.37,8.64
+21,Student Loan 21,Personal,274699.82,2.08
+22,Home Equity Loan 22,Auto,278339.52,7.50
+23,Mortgage Loan 23,Mortgage,156387.12,6.01
+24,Personal Loan 24,Home Equity,104995.73,9.00
+25,Personal Loan 25,Personal,348950.56,2.70
+26,Personal Loan 26,Home Equity,234594.51,4.23
+27,Mortgage Loan 27,Business,114796.22,7.65
+28,Auto Loan 28,Business,359163.38,2.36
+29,Mortgage Loan 29,Mortgage,357794.64,3.10
+30,Mortgage Loan 30,Student,97756.81,4.65
+31,Auto Loan 31,Auto,376685.78,2.72
+32,Mortgage Loan 32,Student,10238.71,3.97
+33,Home Equity Loan 33,Student,312047.61,3.76
+34,Personal Loan 34,Auto,35127.01,10.64
+35,Auto Loan 35,Mortgage,181469.53,10.26
+36,Personal Loan 36,Student,314174.43,2.21
+37,Auto Loan 37,Home Equity,138140.50,3.74
+38,Auto Loan 38,Student,247609.66,5.02
+39,Personal Loan 39,Auto,136845.43,5.31
+40,Business Loan 40,Personal,114845.20,2.47
+41,Personal Loan 41,Business,112232.97,5.21
+42,Business Loan 42,Auto,285152.87,11.59
+43,Auto Loan 43,Student,140828.72,10.94
+44,Student Loan 44,Business,435086.89,4.52
+45,Student Loan 45,Personal,506685.41,7.41
+46,Student Loan 46,Home Equity,166940.89,3.95
+47,Auto Loan 47,Business,152262.31,3.42
+48,Auto Loan 48,Auto,247297.56,4.58
+49,Mortgage Loan 49,Mortgage,47689.57,2.59
+50,Personal Loan 50,Mortgage,202414.18,7.05
