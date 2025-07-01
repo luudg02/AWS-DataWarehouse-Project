@@ -497,11 +497,3 @@ Chuyển đổi từ CSV sang Parquet được thực hiện trong các bước 
    -- Sau khi tải dữ liệu mới vào S3
    MSCK REPAIR TABLE dw.fact_transaction_partitioned;
    ```
-
-## 📝 Giấy Phép
-
-Dự án này được cấp phép theo Giấy phép MIT - xem tệp LICENSE để biết chi tiết.
-
----
-
-📧 **Liên hệ:** Đối với câu hỏi hoặc hỗ trợ, vui lòng liên hệ với đội kỹ thuật dữ liệu.
